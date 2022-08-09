@@ -63,7 +63,7 @@ cmd:
     help: "/dxl invite [player] [dungeon] - 邀請玩家編輯副本"
     success: "&6玩家 &4&v1&6 被成功邀請編輯地圖 &4&v2&6."
   join:
-    help: "/dxl join [announcement] - 打開菜單加入即將參加的遊戲的團隊
+    help: "/dxl join [announcement] - 打開菜單加入即將參加的遊戲的團隊"
   kick:
     help: "/dxl kick [player] - 將玩家踢出團隊和副本"
     success: "&6Successfully 玩家 &4&v1&6 被踢出團隊."
